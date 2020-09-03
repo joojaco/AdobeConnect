@@ -5,3 +5,4 @@ Adobe Connect API calls do not work with proxy or JavaScript fetch() methods, be
 
 Do not remove the SSL from the URLs in these scripts. Also recommend additional security layers, including a VPN when running these.
 
+I like to have status updates as the scripts run, so I have some echos and prints scattered throughout. You can remove these if you want. 
